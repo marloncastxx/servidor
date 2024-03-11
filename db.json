@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "username": "nerdox",
+      "id": 1
+    },
+    {
+      "username": "nerodixt",
+      "id": 2
+    },
+    {
+      "username": "jumu",
+      "id": 3
+    },
+    {
+      "username": "hellaf",
+      "id": 4
+    }
+  ],
+  "tareas": [
+    {
+      "text": "cxc",
+      "user": "hellaf",
+      "id": 60,
+      "checked": true
+    },
+    {
+      "text": "cx",
+      "user": "hellaf",
+      "id": 61,
+      "checked": true
+    },
+    {
+      "text": "vcv",
+      "user": "nerdox",
+      "id": 62,
+      "checked": true
+    },
+    {
+      "text": "vc",
+      "user": "nerdox",
+      "id": 63,
+      "checked": true
+    },
+    {
+      "text": "cx",
+      "user": "nerdox",
+      "id": 64,
+      "checked": true
+    },
+    {
+      "text": "dsd",
+      "user": "nerdox",
+      "id": 65
+    },
+    {
+      "text": "  cvvc",
+      "user": "nerdox",
+      "id": 66
+    },
+    {
+      "text": "vcv",
+      "user": "hellaf",
+      "id": 67,
+      "checked": true
+    },
+    {
+      "text": "vcv",
+      "user": "hellaf",
+      "id": 68
+    }
+  ]
+}
